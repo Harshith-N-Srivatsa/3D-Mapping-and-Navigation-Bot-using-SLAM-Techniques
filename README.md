@@ -9,4 +9,4 @@ The application running on the smartphone is built using Unity Platform and Vufo
 The app uses Google's AR Core SDK and Depth API to detect surfaces and generate 3D map
 This information is then rendered to the client side Unity application running on the user PC via wifi channel
 The user can control and maneuver the bot with the help of live RGB image feed from the bot.
-Once the survellience is dont the 3D map is then rendered on the user side Unity application which can then be used for various pruposes.
+Once the survellience is done the 3D map is then rendered on the user side Unity application which can then be used for various pruposes.
